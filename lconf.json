@@ -6,6 +6,6 @@
          "firstNat": "Y2EtYXBwLXB1Yi01NjExMTc3MTY2NjgzNzE3LzkzMTc3MDA1OTA=",
          "secondInt": "Y2EtYXBwLXB1Yi03NDc3NjcyMjkyNjIwNDQ5LzUyMzcwNDA2OTE=",
          "secondNat": "Y2EtYXBwLXB1Yi03NDc3NjcyMjkyNjIwNDQ5LzcxMDUxMzUwNjA=",
-         "port": "UDP"
+         "port": "TCP"
     }
 }
