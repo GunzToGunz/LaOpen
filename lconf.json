@@ -6,8 +6,8 @@
          "firstNat": "Y2EtYXBwLXB1Yi00MzMzMzcxMjQ0ODMwNDU0LzU4NzE5NTg3MjY=",
          "secondInt": "Y2EtYXBwLXB1Yi00MzMzMzcxMjQ0ODMwNDU0LzY0MDI3OTY5ODM=",
          "secondNat": "Y2EtYXBwLXB1Yi00MzMzMzcxMjQ0ODMwNDU0LzIwODA0MDg1OTA=",
-         "sit": "true",
-         "nchig": "true",
+         "sit": "false",
+         "nchig": "false",
          "port": "UDP"
     }
 }
